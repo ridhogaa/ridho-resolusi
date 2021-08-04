@@ -4,3 +4,5 @@ Ridho resolusi:
 - Fullstack
 - Front-end
 - Back-end
+- Membuat project
+- Learning
